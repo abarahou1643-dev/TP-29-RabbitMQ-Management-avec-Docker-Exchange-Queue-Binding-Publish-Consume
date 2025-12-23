@@ -123,5 +123,4 @@ docker logs rabbit-server
 
 ---
 
-**Statut du projet** : ✅ Complet  
-**Dernière mise à jour** : $(date +%d/%m/%Y)
+
