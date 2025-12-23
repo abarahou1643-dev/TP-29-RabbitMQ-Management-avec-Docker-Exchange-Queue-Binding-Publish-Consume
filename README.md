@@ -113,7 +113,6 @@ docker logs rabbit-server
 ![WhatsApp Image 2025-12-23 at 21 48 19 (1)](https://github.com/user-attachments/assets/3999e908-5cb0-4e54-9245-86519c167678)
 ![WhatsApp Image 2025-12-23 at 21 48 20](https://github.com/user-attachments/assets/2b69ca9f-7bcc-46a4-a0be-23fa57f2e2a5)
 ![WhatsApp Image 2025-12-23 at 21 48 20 (1)](https://github.com/user-attachments/assets/51d8e4f8-67aa-4720-bc73-2e7a6c9c2bfc)
-![WhatsApp Image 2025-12-23 at 21 48 20 (2)](https://github.com/user-attachments/assets/0dcfa695-36fe-4051-9cab-5648fd490021)
 ![WhatsApp Image 2025-12-23 at 21 48 21](https://github.com/user-attachments/assets/f0d534b4-d4fe-4723-81a8-fea398f53f70)
 
 ![WhatsApp Image 2025-12-23 at 21 51 00](https://github.com/user-attachments/assets/97e9ee04-376a-4517-b18b-83d426b7713e)
